@@ -1,0 +1,26 @@
+Funktion:
+- main.exe ausführen
+- das programm öffnet ein chrome fenster
+- das programm scrollt automatisch nach unten
+- nach kurzer zeit bitte selber das 'ich bin kein roboter' ding machen
+- fenster im hintergrund laufen lassen
+- in der konsole werden zwischenstände der scrolls angezeigt
+- chrome fenster schließt sich selber wenns fertig ist
+
+- das programm löscht die größten kanäle, je nach einstellung
+- raus kommt eine 'channels.txt' datei
+
+
+
+Settings:
+- scrolls: wie oft auf der seite nach unten gescrollt werden soll
+- percentage to delete: die liste ist vorerst nach größe sortiert, es werden die größten gelöscht
+
+
+
+Beispiel:
+- scrolls: 400
+- percentage to delete: 10
+
+-> es kommen bspw 5.000 kanäle raus, davon werden die größten 10% gelöscht, also 500
+-> raus kommt eine liste mit 4.500 kanälen nach name sortiert

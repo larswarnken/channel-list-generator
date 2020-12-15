@@ -1,4 +1,5 @@
 Funktion:
+- alle drei dateien in den trihard-kkona ordner kopieren
 - main.exe ausführen
 - das programm öffnet ein chrome fenster
 - das programm scrollt automatisch nach unten
@@ -6,6 +7,7 @@ Funktion:
 - fenster im hintergrund laufen lassen
 - in der konsole werden zwischenstände der scrolls angezeigt
 - chrome fenster schließt sich selber wenns fertig ist
+- das programm führt das trihard programm automatisch mit der soeben erstellten liste aus
 
 - das programm löscht die größten kanäle, je nach einstellung
 - raus kommt eine 'channels.txt' datei

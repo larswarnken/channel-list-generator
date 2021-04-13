@@ -1,2 +1,2 @@
-scrolls: 100
+scrolls: 5
 percentage to delete: 10
